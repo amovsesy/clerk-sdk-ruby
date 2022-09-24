@@ -9,3 +9,8 @@
 
 .byebug_history
 *.gem
+.vscode
+.idea
+.ruby-version
+.ruby-gemset
+out
